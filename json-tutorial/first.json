@@ -1,0 +1,13 @@
+{
+    "name": "Chandan",
+    "score": 81,
+    "isAdmin": true,
+    "license": null,
+    "shopItem": ["food", "clothes", "sunflower"],
+    "obj": {
+        "marks": 412,
+        "grade": "B+",
+        "skills": ["python", "data science", {"jupyter": true}]
+    }
+}
+
